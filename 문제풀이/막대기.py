@@ -1,4 +1,3 @@
-# https://www.acmicpc.net/problem/18870
 import sys
 
 sys.stdin = open("sample.txt", 'r')
