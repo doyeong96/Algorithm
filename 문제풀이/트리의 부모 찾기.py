@@ -2,7 +2,7 @@
 import sys
 
 sys.stdin = open("sample.txt", 'r')
-'''
+''' 
 그래프 연결
 탐색 타고 처음 나오는 노드가 부모
 '''
